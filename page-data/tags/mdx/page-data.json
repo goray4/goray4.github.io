@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tag-template-tsx","path":"/tags/mdx","result":{"data":{"allMdx":{"edges":[{"node":{"frontmatter":{"date":"March 2, 2019","path":"/content/mdx/","title":"MDX support"}}}]}},"pageContext":{"tag":"mdx","itemTotal":1,"limit":10,"page":1,"pageTotal":1,"prefix":"/tags/mdx","skip":0}}}

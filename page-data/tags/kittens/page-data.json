@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tag-template-tsx","path":"/tags/kittens","result":{"data":{"allMdx":{"edges":[{"node":{"frontmatter":{"date":"January 7, 2018","path":"/content/kittens/","title":"Kittens"}}}]}},"pageContext":{"tag":"kittens","itemTotal":1,"limit":10,"page":1,"pageTotal":1,"prefix":"/tags/kittens","skip":0}}}
